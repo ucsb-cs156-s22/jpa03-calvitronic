@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-calvitronic/branch/main/graph/badge.svg?token=zvTBpSSfC2)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-calvitronic)
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-calvitronic-docs/storybook>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-calvitronic-docs-qa/storybook>
