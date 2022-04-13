@@ -1,4 +1,4 @@
-# demo-spring-react-example-v2: dsre-v2
+# jpa03-calvitronic
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-calvitronic/branch/main/graph/badge.svg?token=zvTBpSSfC2)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-calvitronic)
 
